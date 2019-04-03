@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@mipmap/icon_bottom_manage_nor" android:state_selected="false" />
+    <item android:drawable="@mipmap/icon_bottom_manage_sel" android:state_selected="true" />
+    <item android:drawable="@mipmap/icon_bottom_manage_nor" />
+</selector>
